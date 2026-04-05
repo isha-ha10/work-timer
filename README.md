@@ -18,7 +18,8 @@ A simple and clean Pomodoro timer built using Python and Tkinter to help improve
 
 ## 🖼️ Preview
 
-<img width="1682" height="769" alt="image" src="https://github.com/user-attachments/assets/de728902-e0d3-46a9-aa64-5555c3665ba7" />
+<img width="1640" height="795" alt="image" src="https://github.com/user-attachments/assets/49148fbe-e47b-4636-90b0-dd98df308c63" />
+
 
 
 ---
